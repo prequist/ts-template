@@ -1,0 +1,25 @@
+{
+	"name": "ts-template",
+	"version": "1.0.0",
+	"description": "desc",
+	"main": "dist/index.js",
+	"repository": "github.com/prequist/ts-template",
+	"author": "bfu4",
+	"license": "MIT",
+	"scripts": {
+		"test": "jest ."
+	},
+	"devDependencies": {
+		"@typescript-eslint/eslint-plugin": "^4.29.0",
+		"@typescript-eslint/parser": "^4.29.0",
+		"eslint": "^7.32.0",
+		"eslint-config-xo": "^0.37.0",
+		"eslint-config-xo-typescript": "^0.43.0",
+		"jest": "^27.0.6",
+		"@types/jest": "^26.0.24",
+		"@types/node": "^16.4.12",
+		"prettier": "^2.3.2",
+		"ts-jest": "^27.0.4",
+		"typescript": "^4.3.5"
+	}
+}
